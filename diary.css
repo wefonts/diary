@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "diary";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/diary/diary.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/diary/diary.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/diary/diary.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/diary/diary.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/diary/diary.ttf") format("truetype");
+    font-display: swap;
+}
+.diary {
+    font-family: "diary";
+}
